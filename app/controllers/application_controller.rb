@@ -3,4 +3,6 @@ class ApplicationController < ActionController::Base
 
   def abc
   end
+  def view
+ end
 end
