@@ -5,4 +5,6 @@ class ApplicationController < ActionController::Base
   end
   def view
  end
+def edit
+end
 end
